@@ -1,3 +1,4 @@
 torchvision
 albumentations
 jupyter
+opencv-python
